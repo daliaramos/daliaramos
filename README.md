@@ -8,7 +8,8 @@ I became interested in web development when I took a class in college. Since the
 
 * 🌍  I'm based in Portland, OR
 * ✉️  You can contact me at [dalia.ramoshernandez@gmail.com](mailto:dalia.ramoshernandez@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning more about React
+* ⚡  Fun fact: I ❤️ dancing, hiking, concerts, reading, and traveling
 
 ### Skills
 
